@@ -1,0 +1,12 @@
+<style>
+  *{
+    background:#469DBA;
+    margin:135 60;
+    color:#F5E3B5;
+    box-shadow:64q 0,233q 64q,296q 127q,233q -64q,296q -127q;
+    *{
+      margin:0;
+      scale:-1
+    }
+  }
+</style>
