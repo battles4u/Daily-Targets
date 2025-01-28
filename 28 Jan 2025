@@ -1,0 +1,11 @@
+<style>
+  &{
+    background:#2D3464;
+    border:100q dashed#D08825;
+    margin:-9-47;
+    *{
+      background:#FADE8B;
+      margin:0 223 0-50;
+      box-shadow:352q 0#2D3464,215q 0#FADE8B
+  }
+</style>
