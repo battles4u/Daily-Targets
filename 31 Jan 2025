@@ -1,0 +1,14 @@
+<style>
+  *{
+    border:43q solid#C15965;
+    margin:40 60;
+  }
+  &{
+    background:#2F5A76;
+    margin:40 60;
+    border-radius:2in;
+    *{
+      border:solid;
+      border-width:0 40 60;
+      border-color:#0000#0000#C15965;
+      box-shadow:0 90q#2F5A76
