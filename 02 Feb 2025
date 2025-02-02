@@ -1,0 +1,19 @@
+<p><style>
+  *:not(p){
+    background:#EED9D9;
+    border:solid#469DBA;
+    border-width:0 0 30 60;
+    margin:60 60 150;
+    *{
+      margin:90 0-120-60;
+      scale:-1;
+    }
+  }
+  p{
+    position:fixed;
+    padding:60;
+    background:#46487C;
+    margin:-60 20;
+    border-radius:50%
+  }
+</style>
