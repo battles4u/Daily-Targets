@@ -1,0 +1,18 @@
+<p><p><style>
+  *{
+    background:#9076D8;
+    +*{
+      background:#F5E3B5;
+      margin:60 160 0
+    }
+  }
+  p{
+    padding:40 30;
+    margin:0;
+    background:#9076D8;
+    clip-path:polygon(50%0,100%50%,50%50%,100%100%,0%100%,50%50%,0%50%)
+  }
+  p+p{
+    margin:80 0
+  }
+</style>
