@@ -1,0 +1,24 @@
+<p><p a><p b><p c><style>
+  p{
+    position:fixed;
+    background:#4B4D88;
+    color:4B4D88;
+    padding:30 15;
+    border-radius:1in;
+    margin:28%177;
+  }
+  [a],[b]{
+    rotate:45deg;
+    margin:36%245;
+    box-shadow:-75q -75q
+  }
+  [b]{
+    rotate:-45deg;
+    scale:-1 1;
+    left:-128
+  }
+  [c]{
+    padding:15 126;
+    margin:222 66
+  }
+</style>
