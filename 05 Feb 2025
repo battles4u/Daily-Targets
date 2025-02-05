@@ -1,0 +1,20 @@
+<p><p><style>
+  *{
+    background:#BFE33A;
+  }
+  p{
+    position:fixed;
+    padding:160 80;
+    border:43q solid#5A9F48;
+    margin:22 -28;
+    border-radius:2in;
+    --v:101px;
+    clip-path:polygon(0%0,100%0,100%var(--v),50%101px,50%100%,0%100%); 
+    
+  }
+  p+p{
+    --v:100px;
+    scale:-1;
+    margin:-138 172
+  }
+</style>
