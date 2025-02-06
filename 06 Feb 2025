@@ -1,0 +1,17 @@
+<p><p><style>
+  *{
+    background:#D95362;
+  }
+  p{
+    position:fixed;
+    padding:121;
+      background:radial-gradient(1q,var(--v,#2D3464) 42px, #0000 0 80px,#2D3464 0 120px,#D95362);
+      margin:51 71;
+      clip-path:polygon(0%0,50%0,50%20%,80%50%,100%50%,100%100%,0%100%)
+    }
+  p+p{
+    scale:-1;
+    margin:-149 71;
+    --v:#0000
+  }
+</style>
