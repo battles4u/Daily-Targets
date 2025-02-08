@@ -1,0 +1,13 @@
+<style>
+  &{
+    background:#EDECC1;
+    border:53q solid#CC5252;
+    margin:25 75;
+    border-radius:50%;
+    *{
+      background:#CC5252;
+      margin:50 -10;
+      rotate:-30deg
+    }
+  }
+</style>
