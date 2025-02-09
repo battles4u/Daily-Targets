@@ -1,0 +1,10 @@
+<style>
+  *{
+    background:#6592CF;
+    *{
+      background:radial-gradient(1q,#243D83 25px,#6592CF 0 127q,#243D83);
+      margin:14 40;
+     clip-path:polygon(90q 65q,90q 0,249q 0,249q 65q,100%65q,100%223q,249q 223q,249q 100%,90q 100%,90q 223q,0%223q,0%65q);
+    }
+  }
+</style>
