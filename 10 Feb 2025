@@ -1,0 +1,11 @@
+<style>
+  *{
+    background:radial-gradient(1q at var(--p,50%50%),#328FC1 25px,#fff 0 var(--d,270q),#328FC1);
+    *{
+      --p:-56q;
+      --d:125q;
+      margin:75 295 75 0;
+      -webkit-box-reflect:right 201q
+    }
+  }
+</style>
