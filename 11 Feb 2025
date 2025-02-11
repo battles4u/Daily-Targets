@@ -1,0 +1,10 @@
+<style>
+  *{
+    background:#FBFDB7;
+    border-inline:64q solid#46BA67;
+    border-right-color:#D95362;
+    margin:0 60 60;
+    box-shadow:0 64q#46BA67;
+    *{
+      scale:-1;
+      margin:180-60-100
