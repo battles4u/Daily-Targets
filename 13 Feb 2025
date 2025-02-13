@@ -1,0 +1,15 @@
+<p><style>
+  *{
+      background:#00B0C8;
+      *{
+        background:#183539;
+        margin:30 250 30 30;
+        -webkit-box-reflect:right 106q;
+      }
+  }
+  p{    
+      position:fixed;
+      padding:60 40;
+      margin:60 80;
+  }
+</style>
