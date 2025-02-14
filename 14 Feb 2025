@@ -1,0 +1,11 @@
+<style>
+  *{
+    background:#75CF34;
+    border-inline:43q solid#963032;
+    margin:80 150;
+    *{
+      margin:10-40;
+      rotate:90deg
+    }
+  }
+</style>
