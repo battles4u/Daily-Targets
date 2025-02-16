@@ -1,0 +1,20 @@
+<p><style>
+  *{
+    background:#EED9D9;
+    color:668884;
+    +*{
+      margin:30%270 30%70;
+      border-radius:1in;
+      box-shadow:106q 0,106q 0 0 32q#EED9D9,0 0 0 32q,212q 0#EED9D9,212q 0 0 32q
+    }
+  }
+  p{
+    position:fixed;
+    padding:40 15;
+    margin:-90-30;
+    border:solid;
+    border-width:30 0 0 30;
+    border-radius:1in 0;
+    z-index:-1;
+  }
+</style>
