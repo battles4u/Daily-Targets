@@ -1,3 +1,5 @@
+/* Solution 1*/
+
 <p><style>
   *{
     background:#EED9D9;
@@ -18,3 +20,27 @@
     z-index:-1;
   }
 </style>
+
+
+
+
+
+/* Solution 2*/
+
+<style>
+  *{
+    background:#EED9D9;
+    color:668884;
+    border:solid#668884;
+    border-width:30 0 0 30;
+    margin:30 75%50%40;
+    border-radius:1in 0;
+     *{
+      border:none;
+      margin:60 -30 -80 0;
+      border-radius:50%;
+      box-shadow:106q 0,106q 0 0 32q#EED9D9,0 0 0 32q,212q 0#EED9D9,212q 0 0 32q
+    }
+  }
+
+ 
