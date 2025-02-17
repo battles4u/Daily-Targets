@@ -1,0 +1,21 @@
+<p><p><style>
+  body{
+      background:#2D3464;
+      -webkit-box-reflect:right 180px
+    }
+    body,p{
+      border:solid#D95362;
+      border-width:30 0 0 30;
+      margin:60%290 0 50;
+      border-radius:2in 0 0;
+    }
+  p{
+    position:fixed;
+    padding:20 15;
+    margin:-120 60;
+  }
+  p+p{
+    scale:-1;
+    margin:-70 30
+  }
+</style>
