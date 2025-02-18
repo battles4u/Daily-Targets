@@ -1,0 +1,7 @@
+<style>
+  &{
+    background:#343D42;
+    margin:25%270 30%50;
+    box-shadow:220px 0#343D42,110px 110px 0 110px#D9D9D9,0 0 0 3in#46BA67;
+  }
+</style>
