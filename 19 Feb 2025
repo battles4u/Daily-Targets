@@ -1,0 +1,9 @@
+<style>
+  &{
+  background:#D95362;
+    border:solid#FDFFE9;
+    border-width:0 50 0 80;
+    border-right-style:dotted;
+    margin:40 125
+}
+</style>
