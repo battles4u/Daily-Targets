@@ -1,0 +1,19 @@
+<p><p><style>
+  &{
+    background:#9C8A39;
+    margin:50%80 0;
+    box-shadow:0 0 0 3in#3F4869;
+  }
+  p{
+    position:fixed;
+    padding:50 120;
+    background:#FBE374;
+    margin:-55-8;
+    border-radius:50%
+  }
+  p+p{
+    padding:30 90;
+    background:#3F4869;
+    margin:-48 22
+  }
+</style>
