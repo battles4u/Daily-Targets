@@ -1,0 +1,9 @@
+<style>
+  *{
+    background:#96551A
+  }
+  &{
+    border-block:149q solid#EA9A52;
+    margin:0 130;
+    *{
+      margin:-25 35
