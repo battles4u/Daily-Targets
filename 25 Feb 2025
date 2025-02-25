@@ -1,0 +1,13 @@
+<p><style>
+  &{
+    background:#F2EAA8;
+    border-block:53q solid#3F4869;
+    margin:0 20;
+    *{
+        border:27q solid#3F4869;
+        margin:25 90;
+      *{
+        margin:25 20
+      }
+  }
+</style>
