@@ -1,0 +1,30 @@
+<p><a><p><a><p a><a><style>
+  *{
+    background:var(--b,#46BA67);
+  }
+  p,a{
+    position:fixed;
+  }
+  p{
+    padding:100 20;
+    --b:#4C4C6B;
+    margin:162 72;
+  }
+  a{
+    padding:20;
+    --b:#FAE29E;
+    border-radius:1in;
+    margin:-140-20;
+  }
+  p+p{
+    margin:162 272
+  }
+  [a]{
+    scale:-1;
+    margin:-78 172;
+    --b:#FAE29E;
+    a{
+      --b:#4C4C6B;
+    }
+  }
+</style>
