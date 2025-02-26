@@ -1,3 +1,6 @@
+/**Solution 1**/
+
+
 <p><a><p><a><p a><a><style>
   *{
     background:var(--b,#46BA67);
@@ -25,6 +28,29 @@
     --b:#FAE29E;
     a{
       --b:#4C4C6B;
+    }
+  }
+</style>
+
+
+
+/**Solution 2**/
+
+
+<style>
+  *{
+    background:#46BA67;
+    border:22q solid#FAE29E;
+    color:4C4C6B;
+    margin:0 45%170;
+    box-shadow:106q 180q,-106q 180q;
+    *{
+      position:fixed;
+      margin:110-20;
+      color:#FAE29E;
+      border-radius:1in;
+      border-color:4C4C6B;
+      box-shadow:106q 0,-106q 0;
     }
   }
 </style>
