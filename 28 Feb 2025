@@ -1,0 +1,16 @@
+<p><style>
+*{
+  background:#EBE77E;
+  border:solid#DE817E;
+  border-width:0 0 30 30;
+  margin:110 160 110 160;
+  *{
+    margin:-80 80 50-110;
+  }
+}
+  p{
+      padding:25;
+      margin:160 130;
+      position:fixed;
+    }
+</style>
