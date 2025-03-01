@@ -1,0 +1,15 @@
+<p><style>
+  *{
+    background:#5AED9C;
+    border:solid#4B4D88;
+    border-width:0 0 30 30;
+    margin:160 210 60 110;
+    *{
+      margin:-50-50 20 20;
+      *{
+        position:fixed;
+        padding:25
+      }
+    }
+  }
+</style>
