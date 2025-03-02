@@ -1,0 +1,20 @@
+<p><style>
+  *{
+    background:#84B9C7;
+    border-block:32q solid#1A353C;
+    margin:100 40 -30;
+    +*{
+      rotate:90deg;
+      margin:2 108 28 108
+    }
+  }
+  p{
+    position:fixed;
+    border:solid#1A353C;
+    border-width:30 30 30 0;
+    padding:30 15;
+    margin:-120 0;
+    border-radius:0 1in 1in 0;
+    -webkit-box-reflect:below 85q
+  }
+</style>
