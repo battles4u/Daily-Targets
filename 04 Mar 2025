@@ -1,0 +1,14 @@
+<style>
+  *{
+    background:#4A9A86;
+  }
+  &{
+    border:solid;
+    border-color:#EBF6F0#4A9A86;
+    border-width:100 77;
+    *{
+      margin:-34 40;
+      border-radius:50%
+    }
+  }
+</style>
