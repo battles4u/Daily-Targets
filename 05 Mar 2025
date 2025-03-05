@@ -1,3 +1,4 @@
+/* Solution #1 */
 <p><a><a><style>
   *{
     background:#6255AA;
@@ -17,3 +18,24 @@
     -webkit-box-reflect:below 301q
   }
 </style>
+
+
+
+/* Solutioon #2 */
+<p><a><a><style>
+  *{
+    background:#6255AA
+  }
+  a{
+    position:fixed;
+    padding:61;
+    background:#D96E9F;
+    margin:-9 40;
+    clip-path:polygon(77%0,100%30%,100%99%,1%99%)
+  }
+  a+a{
+    scale:-1 1;
+    left:190
+  }
+  p{
+    -webkit-box-reflect:below 300q
