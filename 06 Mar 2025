@@ -1,3 +1,5 @@
+/*Solution #1 */
+
 <p><p><style>
   *:not(p){
     background:#E8AD6D;
@@ -19,4 +21,30 @@
   p+p{
     top:110
   }
+</style>
+
+
+
+/*Solution #2 */
+
+<p><p><style>
+  *:not(p){
+    background:#E8AD6D;
+    border-inline:43q solid#DE6B67;
+    margin:0 85;
+    *{
+      border-width:55;
+      margin:0 20;
+      *{
+    position:fixed;
+    padding:15 20;
+    background:#E8AD6D;
+    margin:80-20;
+    clip-path:polygon(50%0,100%50%,50%100%,0%50%);
+    +p{
+      top:110
+  }
+    }
+  }
+  
 </style>
