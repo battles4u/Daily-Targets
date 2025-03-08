@@ -1,0 +1,18 @@
+<p><style>
+  *{
+    background:#498488;
+    +*{
+      background:#D99795;
+      border-block:22q solid;
+      border-color:#D9D9D9#0000#0000;
+      margin:80;
+      *{
+        position:fixed;
+        padding:60;
+        border-radius:1in;
+        margin:60-60;
+        box-shadow:254q 0#498488
+      }
+    }
+  }
+</style>
