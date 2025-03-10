@@ -1,3 +1,5 @@
+/* Solution 1 */
+
 <style>
   *{
     background:#fff;
@@ -12,3 +14,15 @@
     }
   }
 </style>
+
+
+
+/* Solution 2 */
+
+<style>
+  &{
+    border-block:75q solid#F58220;
+    margin:70 170;
+    transform:skew(-20.5deg);
+    box-shadow:63q 0#fff,-63q 0#fff,0 0 0 3in#F58220
+  }
