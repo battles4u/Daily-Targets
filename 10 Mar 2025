@@ -1,0 +1,14 @@
+<style>
+  *{
+    background:#fff;
+  }
+  &{
+    box-shadow:0 0 0 3in#F58220;
+    margin:140 150;;
+    *{
+      margin:-70 80-70-40;
+      transform:skew(-20.5deg);
+      box-shadow:127q 0#fff
+    }
+  }
+</style>
