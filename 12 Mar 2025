@@ -20,3 +20,16 @@
         }
       }
 </style>
+
+/* Solution 2 */
+
+<a><a><style>
+  *{
+    background:radial-gradient(1q,#BFE33A 80px,#5A9F48 0 127q,#BFE33A);
+    background-size:212q;
+    *{
+      background:#BFE33A;
+      margin:135 0;
+      *{
+        padding:140 15;
+        margin:85
