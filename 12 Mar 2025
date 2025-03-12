@@ -1,0 +1,22 @@
+/*  Solution 1 */
+
+<p><a><a><style>
+  *{
+    background:#BFE33A;
+  }
+  p,a{
+    position:fixed;
+    padding:120;
+    margin:22-8;
+    background:radial-gradient(1q at 106q,#0000 80px,#5A9F48 0 127q,#0000);
+    -webkit-box-reflect:right -80px;
+  }
+  a{
+        background:#BFE33A;
+        padding:15 120;
+        margin:-15-140;
+        +a{
+          rotate:90deg
+        }
+      }
+</style>
