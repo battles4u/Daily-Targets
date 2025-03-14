@@ -35,3 +35,16 @@
       margin:0 60}
 }
 </style>
+
+/* Solution 4 */
+
+<style>
+  *{
+    background:#D96C7B;
+    border-inline:43q solid#8B0051;
+    margin:181 45%45 80;
+    *{
+      margin:0-140 0 60;
+    }
+  }
+  </style>
