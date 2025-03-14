@@ -1,3 +1,5 @@
+/* Solution 1 */
+
 <style>
   &{
     background:#8B0051;
@@ -5,4 +7,31 @@
      margin: 181 280 45 80;
     box-shadow:106q 0,212q 0,0 0 0 3in#D96C7B;
   }
+</style>
+
+/* Solution 2 */
+<style>
+  *{
+  background:#D96C7B; 
+  border-inline:43q solid#8B0051;
+  margin:181 20%45 80;
+    *{
+      border-width:20;
+      margin:0 60
+}
+}
+</style>
+
+
+/* Solution 3 */
+
+<style>
+  &{
+  background:#D96C7B; 
+  border-inline:43q solid#8B0051;
+  margin:181 20%45 80;
+    *{
+      background:#8B0051;
+      margin:0 60}
+}
 </style>
