@@ -1,0 +1,12 @@
+<style>
+  *{
+    background:#4F77FF;
+    border-block:34q solid#fff;
+    margin:-90 72 54;
+    *{
+      border:34q solid#fff;
+      border-radius:1in;
+      margin:112 32-32;
+    }
+  }
+</style>
