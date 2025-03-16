@@ -1,0 +1,12 @@
+<style>
+  *{
+    background:#EAC049;
+    color:51A499;
+    border:22q solid;
+    margin:60 110;
+    *{
+      margin:-40 100%140-40;
+      box-shadow:190q 0,190q 190q,0 190q
+    }
+  }
+</style>
