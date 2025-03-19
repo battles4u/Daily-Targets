@@ -1,0 +1,17 @@
+<p><style>
+  *{
+    background:#66DBB8;
+    border:32q solid#1A353C;
+    margin:-30 85;
+    *{
+      margin:135-30-30;
+      *{
+        position:fixed;
+        padding:30;
+        margin:-75;
+        border-radius:1in;
+        -webkit-box-reflect:right 80px
+      }
+    }
+  }
+</style>
