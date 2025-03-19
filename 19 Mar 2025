@@ -1,3 +1,5 @@
+/* Solution 1 */
+
 <p><style>
   *{
     background:#66DBB8;
@@ -12,6 +14,48 @@
         border-radius:1in;
         -webkit-box-reflect:right 80px
       }
+    }
+  }
+</style>
+
+
+/* Solution 2 */
+
+<p><style>
+  *{
+    background:#66DBB8;
+    border:32q solid#1A353C;
+    margin:-30 85;
+    *{
+      margin:135-30-30;
+      *{
+        padding:30;
+        margin:-75+125-75-75;
+        border-radius:1in;
+        -webkit-box-reflect:right 80px
+      }
+    }
+  }
+</style>
+
+/* Solution 3 */
+
+<p><p><style>
+  *{
+    background:#66DBB8;
+    border:32q solid#1A353C;
+    margin:-30 85;
+    *{
+      margin:135-30-30;
+    }
+  }
+  p{
+    position:fixed;
+    padding:30;
+    margin:-75;
+    border-radius:1in;
+    +p{
+      left:315
     }
   }
 </style>
