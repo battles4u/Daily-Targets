@@ -1,0 +1,9 @@
+<style>
+  &{
+    background:#1A353C;
+    color:D4ED33;
+    border-block:135px solid;
+    margin:0 180;
+    box-shadow:0 0 0 30px#1A353C,0 0 0 65px,0 0 0 95px#1A353C,0 0 0 3in
+  }
+</style>
