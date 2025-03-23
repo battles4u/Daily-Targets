@@ -1,0 +1,25 @@
+<a><b><style>
+  *{
+    background:#fff;
+    *:not(a,b){
+      border:solid;
+      border-color:#0000#0000#1A353C;
+      border-width:0 100 125;
+      margin:0 20%136;
+    }    
+  }
+  a,b{
+    position:fixed;
+  }
+  a{
+    padding:40 20;
+    margin:67 0;
+    background:#E0B673;
+    box-shadow:0-15q#fff,0 170q 0 85q#1A353C;    
+  b{
+    padding:25 50;
+    margin:7-50;
+    border-radius:1in 1in 0 0;
+    }
+  }
+</style>
