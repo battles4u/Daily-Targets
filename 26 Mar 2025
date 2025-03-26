@@ -1,0 +1,12 @@
+<style>
+  &{
+   background:radial-gradient(1q at 50%100%,#DAB897 10,#2D3464);
+    *{
+      background:#DAB897;
+      color:#2D3464;
+      margin:120 185;
+      box-shadow:0 84q,0 86q,90q 180q 0 21q,-90q 180q 0 21q;
+    }
+    
+  }
+</style>
