@@ -1,0 +1,33 @@
+<a><b></b><c><d><style>
+  *{
+    --b:#282828;
+    background:var(--b);
+    position:fixed; 
+  }
+  d,a{
+    border-radius:50%;
+  }
+  a{
+    --b:#EA3323;
+    color:EA3323;
+    padding:5;
+    margin:67 152;
+    box-shadow:26q 0 0 5px,63q 0 0 10px
+  }
+  b{
+    --b:#F2A73B;
+    padding:30;
+    rotate:45deg;
+    margin:40 72
+  }
+  c{
+    padding:70;
+    margin:0-35;
+    --b:#fff;
+    border-radius:20px;
+  }
+  d{
+    padding:15 7.5;
+    margin:-40 35
+  }
+</style>
