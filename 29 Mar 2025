@@ -1,3 +1,5 @@
+/* Solution 1 */
+
 <p><style>
   &{
     background:#6592CF;
@@ -9,6 +11,25 @@
         border-radius:1in;
         box-shadow:0 0 0 63q#FFFFCD,423q -318q#6592CF,423q -318q 0 64q#FFFFCD
       }
+    }
+  }
+</style>
+
+/* Solution 2 */
+
+<p><p><style>
+  &,p{
+    background:#6592CF;
+    border:64q solid;
+    color:FFFFCD;
+  }
+  p{
+    position:fixed;
+    padding:60;
+    border-radius:50%;
+    margin:112-188;
+    +p{
+      margin:-188 212
     }
   }
 </style>
