@@ -1,0 +1,13 @@
+<style>
+  *{
+    background:#436F9B;
+    color:E38F66;
+    border-inline:32q solid;
+    margin:40% 185 110 115;
+    box-shadow:0 53q,-32q -25q#436F9B,0 -22q;
+    *{
+      margin:-50 -100 50 40;
+      scale:-1;
+    }
+  }
+</style>
