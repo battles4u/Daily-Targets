@@ -1,0 +1,11 @@
+<style>
+  *{
+    background:#EAC049;
+    border-right:250q solid#51A499;
+    margin:0-66;
+    *{
+      scale:-1;
+      margin:60-60%60 60
+    }
+  }
+</style>
