@@ -1,0 +1,14 @@
+<a><a><style>
+    &{
+        background:#E8AD6D;
+        margin:75 125;
+        border-radius:50%;
+        border:64q solid#DE6B67;
+        a{
+            position:fixed;
+            border-block:90px solid#DE6B67;
+            padding:10;
+            margin:-93-3;
+            rotate:45deg;
+            +a{
+                rotate:-45deg
