@@ -1,0 +1,18 @@
+<p><p><style>
+  &{
+    background:#5A9F48;
+    margin:80 130;
+    box-shadow:0 0 0 3in#14576B
+  }
+  p{
+    position:fixed;
+    padding:84 50;
+    color:5A9F48;
+    border-block:22q solid;
+    margin:-42 12;
+    box-shadow:0-15q#14576B,0-57q 0-21q,0 15q#14576B,0 57q 0-21q
+  }
+  p+p{
+    rotate:90deg
+  }
+</style>
