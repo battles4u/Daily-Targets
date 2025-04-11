@@ -1,0 +1,21 @@
+<p><style>
+  *:not(p){
+      border-radius:53q 53q 0 0;
+  }
+  &{
+      background:#D96C7B;
+      margin:80 105;
+      box-shadow:0 0 0 3in#A4C5BD;
+      *{
+        margin:0 90 0 0;
+        background:#8D424D;
+      }
+    }
+  p{
+    position:fixed;
+    padding:50 10;
+    margin:140;
+    background:#D96C7B;
+    box-shadow:-11q 0#8D424D;
+  }
+</style>
