@@ -37,3 +37,22 @@
     }
   }
 </style>
+
+
+/* Solution 3*/
+
+<style>
+  &{
+    background:#995757;
+    margin:60 50;
+    box-shadow:0 0 0 3in#E3CC9E;
+    *{
+      border:solid#fff;
+      border-width:10 80;
+      margin:-20 0 160;
+      border-radius:50%;
+      background:#6C3232;
+      box-shadow:0 180px#995757
+    }
+  }
+</style>
