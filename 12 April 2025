@@ -1,0 +1,39 @@
+/* Solution 1 */
+<p><style>
+  &{
+    background:#995757;
+    margin:60 50;
+    box-shadow:0 0 0 3in#E3CC9E;
+    *{
+      background:#fff;
+      margin:-20 0 160;
+      border-radius:50%;
+      box-shadow:0 180px#995757;
+      *{
+        position:fixed;
+        padding:10 70;
+        margin:10 80;
+        background:#6C3232
+      }
+    }
+  }
+</style>
+
+/* Solution 2*/
+
+<style>
+  *{
+    background:#995757;
+    color:E3CC9E;
+    border:solid;
+    border-width:60 50;
+    *{
+      border-width:10 80;
+      margin:-20 0 160;
+      color:#fff;
+      border-radius:50%;
+      background:#6C3232;
+      box-shadow:0 180px#995757
+    }
+  }
+</style>
