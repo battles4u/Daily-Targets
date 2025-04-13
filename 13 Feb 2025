@@ -1,3 +1,5 @@
+/* Solution 1*/
+
 <p><style>
   *{
       background:#00B0C8;
@@ -11,5 +13,25 @@
       position:fixed;
       padding:60 40;
       margin:60 80;
+  }
+</style>
+
+
+/* Solution 2 */
+
+<p a><p><p a><p><style>
+  body{
+    background:#E3CC9E;
+    display:flex;
+    margin:109 35;
+    gap:10px;
+  }
+  p{
+    background:#2A2753;
+    border-radius:26q;
+    padding:25;
+  }
+  [a]{
+    width:50
   }
 </style>
