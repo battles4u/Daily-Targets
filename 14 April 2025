@@ -1,3 +1,5 @@
+/* Solution 1*/
+
 <p><style>
   *:not(p){
     border-radius:50%;
@@ -18,5 +20,33 @@
         background:#469DBA
       }
     }
+  }
+</style>
+
+/* Solution 2 */
+
+<a><b><style>
+  *{
+    background:var(--b,#343400);
+    +*,b{
+      --b:#469DBA
+    }
+    +*,a{
+      margin:70 75;
+      border-radius:50%
+    }
+  }
+  a,b{
+    position:fixed;
+    padding:15
+  }
+  a{
+    --b:#343400;
+    color:343400;
+    margin:65 110;
+    box-shadow:74q 0,-74q 0
+  }
+  b{
+    margin:30-110
   }
 </style>
