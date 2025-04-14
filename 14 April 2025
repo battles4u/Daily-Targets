@@ -1,0 +1,22 @@
+<p><style>
+  *:not(p){
+    border-radius:50%;
+    color:343400;
+    box-shadow:var(--s,0 0 0 3in)
+  }
+  &{
+    background:#469DBA;
+    margin:70 75;
+    *{
+      background:#343400;
+      margin:65 110;
+      --s:-74q 0,74q 0;
+      *{
+        position:fixed;
+        padding:20;
+        margin:35-95;
+        background:#469DBA
+      }
+    }
+  }
+</style>
