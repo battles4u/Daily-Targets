@@ -1,0 +1,16 @@
+<p><style>
+  *{
+    background:#4C3AB3;
+    border:32q solid#D96E9F;
+    margin:30 100;
+    border-radius:2in 2in 0 0;
+    *{
+      margin:10 10-30;
+      border-width:30 30 0;
+      *{
+        border-width:20;
+        border-radius:1in
+      }
+    }
+  }
+</style>
