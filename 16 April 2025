@@ -1,3 +1,5 @@
+/* Solution 1 */
+
 <p><style>
   *{
     color:4C455B;
@@ -16,5 +18,24 @@
     color:4FC1AD;
     margin:-40+40;
     box-shadow:169q 0
+  }
+</style>
+
+/* Solution 2 */
+
+<p><style>
+  *{
+    background:#4FC1AD;
+    border:43q solid#4C455B;
+    margin:50 20;
+    *{
+      border-width:120 0;
+      margin:-160 200 0 40;
+      *{
+        position:fixed;
+        padding:20;
+        margin:-120 160
+      }
+    }
   }
 </style>
