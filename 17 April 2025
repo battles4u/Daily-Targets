@@ -1,0 +1,22 @@
+<p><p><p a><p b><style>
+  *{
+    background:#D96C7B;
+  }
+  p{
+    position:fixed;
+    background:conic-gradient(#0000 0 75%,#fff 0);
+    padding:120;
+    margin:22 72;
+    border-radius:50%
+  }
+  p+p{
+    scale:-.67 .67
+  }
+  [a]{
+    scale:-.33;
+  }
+  [b]{
+    scale:.17 -.17
+  }
+  
+</style>
