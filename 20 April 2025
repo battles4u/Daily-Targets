@@ -1,3 +1,5 @@
+/* Solution 1 */
+
 <style>
   &{
     background:#2B2A4A;
@@ -6,6 +8,21 @@
     *{
       background:#DE9473;
       margin:30 0 ;
+      border-radius:0 0 1in 1in;
+      -webkit-box-reflect:below -85q
+    }
+  }
+</style>
+
+/* Solution 2 */
+
+<style>
+  *{
+    background:#2B2A4A;
+    border-block:43q solid#DE9473;
+    margin:40 120;
+    *{
+      margin:30 0;
       border-radius:0 0 1in 1in;
       -webkit-box-reflect:below -85q
     }
