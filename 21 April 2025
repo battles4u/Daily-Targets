@@ -1,0 +1,17 @@
+<p><p><style>
+  &{
+    background:radial-gradient(1q, #0000 80px,#4C455B 0),conic-gradient(#D96C7B 25%,#8AB8B6 0 75%,#D96C7B 0);
+  }
+  p{
+    position:fixed;
+    padding:30;
+    color:D96C7B;
+    margin:82-8;
+    box-shadow:32q -32q 0 32q;
+  }
+  p+p{
+    scale:-1;
+    color:8AB8B6;
+    margin:142 332
+  }
+</style>
