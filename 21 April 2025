@@ -1,3 +1,5 @@
+/* Solution 1*/
+
 <p><p><style>
   &{
     background:radial-gradient(1q, #0000 80px,#4C455B 0),conic-gradient(#D96C7B 25%,#8AB8B6 0 75%,#D96C7B 0);
@@ -15,3 +17,14 @@
     margin:142 332
   }
 </style>
+
+/* Solution 2 */
+
+<style>
+  &{
+    background:conic-gradient(from 180deg,#0000 25%,#D96C7B 0)0 32q/127q 127q no-repeat,
+      conic-gradient(#0000 25%,#8AB8B6 0)296q 159q/127q 127q no-repeat,
+      radial-gradient(1q,#0000 80px,#4C455B),
+      linear-gradient(#D96C7B 50%,#8AB8B6 0)
+  }
+  </style>
