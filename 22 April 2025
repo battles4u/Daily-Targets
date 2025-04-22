@@ -58,9 +58,8 @@
 
 /* Solution 4 */
 <a><a><style>
-  *{
-    background:#5A9F48;
     body{
+      background:#5A9F48;
       a{
         +a{
           border-width:40;
