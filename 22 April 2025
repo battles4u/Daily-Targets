@@ -1,0 +1,39 @@
+/* Solution 1 */
+<a><b><style>
+  *{
+    background:#5A9F48;
+  }
+  a,b{
+    position:fixed;
+    padding:50 85;
+    margin:92 62;
+    border-inline:48q solid#2A2753;
+  }
+  a{
+    clip-path:polygon(0%0,100%0,50%100%);
+  }
+  b{
+    margin:-50-55;
+    border-width:40;
+    padding:50 15
+  }
+</style>
+
+/* Solution 2 */
+<p><style>
+  *{
+    background:#5A9F48;
+    *{
+      border-inline:48q solid#2A2753;
+      margin:100 70;
+      clip-path:polygon(0%0,100%0,50%100%);
+      *{
+        padding:50 15;
+        margin:0 30;
+        border-width:40;
+        clip-path:none
+      }
+    }
+  }
+</style>
+
