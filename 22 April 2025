@@ -37,3 +37,41 @@
   }
 </style>
 
+
+/* Solution 3*/
+<p><style>
+  *{
+    background:#5A9F48;
+  body,p{
+    padding:50 85;
+    margin:100 70;
+    border-inline:48q solid#2A2753;
+    p{
+    margin:-50-55;
+    border-width:40;
+    padding:50 15
+  }}
+    body{
+      clip-path:polygon(0%0,100%0,50%100%);
+    }
+</style>
+
+/* Solution 4 */
+<a><a><style>
+  *{
+    background:#5A9F48;
+    body{
+      a{
+        +a{
+          border-width:40;
+          margin:-185;
+          padding:90 15;
+        }
+        border:48q solid#2A2753;
+        padding:85;
+      }
+      margin:100 70;
+      clip-path:polygon(0%0,100%0,50%100%)
+    }
+  }
+</style>
