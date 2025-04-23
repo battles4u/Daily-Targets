@@ -1,0 +1,18 @@
+<a><style>
+  &{
+    border:127q solid#68D0DF;
+    margin:-50 0;
+    *{
+      border-inline:85q solid#9A5DCB;
+      border-left-style:dotted;
+      border-left-width:40;
+      margin:-20 0 140-20;
+      *{
+        position:fixed;
+        padding:20 30;
+        scale:-1;
+        margin:160-20
+      }
+    }
+  }
+</style>
