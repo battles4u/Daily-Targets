@@ -1,0 +1,12 @@
+<style>
+  &{
+    background:#5DCBA3;
+    margin:125 25;
+    box-shadow:0 0 0 3in#6255AA;
+    *{
+      color:5DCBA3;
+      margin:0 50 0 250;
+      box-shadow:0 50px,0-50px,53q 106q,53q -106q
+    }
+  }
+</style>
