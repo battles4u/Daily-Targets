@@ -1,0 +1,15 @@
+<style>
+  *{
+    border-radius:1in;
+    background:#F5E3B5;
+    color:F5E3B5;
+  }
+  &{
+    margin:-80 170 180;
+    box-shadow:0 63q 0 32q#8D424D,0 0 0 3in;
+    *{
+      margin:0 15 170;
+      box-shadow:0 164q#8D424D,0 227q;
+    }
+  }
+</style>
