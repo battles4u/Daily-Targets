@@ -1,0 +1,10 @@
+<style>
+  &{
+    background:radial-gradient(1q,#5AA4B7 95q,#CAEBE4 0);
+    *{
+      margin:25%150;
+      color:CAEBE4;
+      box-shadow:116q 53q,-116q 53q
+    }
+  }
+</style>
