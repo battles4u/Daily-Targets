@@ -1,3 +1,5 @@
+
+/*Solution 1*/
 <a><style>
   *{
    background:#66DBB8;
@@ -14,5 +16,25 @@
         padding:0 200;
       }
     }
+  }
+</style>
+
+/*Solution 2*/
+<a><style>
+  *{
+    background:#66DBB8;
+    border:22q solid#4C4C6B;
+    margin:100-25;
+    *{
+      margin:10 0;
+    }
+  }
+  a{
+    position:fixed;
+    padding:85 35;
+    margin:-100 135;
+    border-width:15;
+    border-radius:1in;
+    background:#0000
   }
 </style>
