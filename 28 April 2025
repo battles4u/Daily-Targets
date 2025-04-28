@@ -38,3 +38,19 @@
     background:#0000
   }
 </style>
+
+/*Solution 3*/
+<style>
+  *{
+    background:#66DBB8;
+    border:16q solid#4C4C6B;
+    margin:50 150;
+    border-radius:1in;
+    *{
+      margin:35-220 85;
+      border-width:20;
+      background:#0000;
+      -webkit-box-reflect:below      
+    }
+  }
+</style>
