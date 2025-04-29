@@ -1,0 +1,44 @@
+/*Solution 1*/
+<p><style>
+  *{
+    border-radius:1in;
+    background:#243D83;
+  }
+  &{
+    margin:10 140;
+    box-shadow:0 0 0 3in#F7EC7D;
+    *{
+      margin:80-80;
+      *{
+        position:fixed;
+        padding:30;
+        margin:30;
+        background:#fff;
+        box-shadow:169q 0#fff
+      }
+      
+    }
+  }
+</style>
+
+/*Solution 2*/
+<p><style>
+  *{
+    background:#F7EC7D;
+    border:64q solid#243D83;
+    margin:10 140;
+    border-radius:1in;
+    *{
+      rotate:90deg;
+      margin:-60;
+      *{
+        position:fixed;
+        background:#fff;
+        padding:30;
+        border:0;
+        margin:-30;
+        box-shadow:169q 0#fff
+      }
+    }
+  }
+</style>
