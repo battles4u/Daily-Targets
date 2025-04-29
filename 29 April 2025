@@ -42,3 +42,21 @@
     }
   }
 </style>
+
+/*Solution 3*/
+<style>
+  *{
+    background:#243D83;
+    border-radius:1in;
+  }
+  &{
+    margin:10 140;
+    box-shadow:0 0 0 3in#F7EC7D;
+    *{
+      margin:80-80;
+      background:radial-gradient(1q,#fff 32q,#243D83 0)-21q/169q
+    }
+  }
+</style>
+
+
