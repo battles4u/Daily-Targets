@@ -1,0 +1,11 @@
+<style>
+  *{
+    background:radial-gradient(1q,#5A9F48,127q,#fff);
+    *{
+      border:solid#fff;
+      border-width:0 0 40 40;
+      margin:140 105 90 155;
+      rotate:-45deg
+    }
+  }
+</style>
