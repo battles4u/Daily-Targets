@@ -1,0 +1,15 @@
+<style>
+  &{
+    background:#3F4869;
+    color:F4DA64;
+    border:solid;
+    border-width:0 50 50;
+    border-radius:0 0 2in 2in;
+    margin:70 70 100;
+    *{
+      background:#F4DA64;
+      margin:-50 210 80-100;
+      box-shadow:328q 0,164q 212q
+    }
+  }
+</style>
