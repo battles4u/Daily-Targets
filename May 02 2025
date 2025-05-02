@@ -1,0 +1,69 @@
+/* Solution 1 */
+<p><p a><p b>
+<style>
+  body{
+    background:#FEFAED;
+    display:flex;
+    justify-content:center;
+    margin:54 80;
+  }
+  p{
+    background:#9A5DCB;
+    padding:40 ;
+    border-radius:21q 0;
+    align-self:flex-end
+  }
+  [a]{
+    border-radius:21q 21q 0 0;
+    align-self:flex-start
+  }
+  [b]{
+    rotate:90deg;
+  }
+</style>
+
+/* Solution 2 */
+<p a><p b>
+<style>
+  body{
+    background:#FEFAED;
+    display:flex;
+    margin:54 80;
+  }
+  p{
+    background:#9A5DCB;
+    padding:40;
+    border-radius:21q 0;
+    align-self:end
+  }
+  [a]{
+    -webkit-box-reflect:right 85q
+  }
+  [b]{
+    border-radius:21q 21q 0 0;
+    align-self:start
+  }
+</style>
+
+
+/* Solution 3*/
+<p><p a><p c>
+<style>
+  body{
+    background:#FEFAED;
+    display:flex;
+    margin:134 80 54;
+  }
+  p{
+    background:#9A5DCB;
+    padding:40 ;
+    border-radius:21q 0;
+  }
+  [a]{
+    border-radius:21q 21q 0 0;
+    margin:-64 0 96
+  }
+  [c]{
+    scale:-1 1
+  }
+</style>
