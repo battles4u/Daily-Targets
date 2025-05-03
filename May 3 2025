@@ -1,0 +1,12 @@
+<style>
+  *{
+    background:#5C8D8F;
+  *{
+    color:F4DA64;
+    border:53q solid;
+    margin:-130 70 170;
+    border-radius:50%;
+    box-shadow:200px 150px,-200px 150px;
+    -webkit-box-reflect:below 42q
+  }
+</style>
