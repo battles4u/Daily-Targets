@@ -1,0 +1,14 @@
+<style>
+  *{
+    background:#FAE29E;
+    border:solid;
+    border-width:0 40 40;
+    color:4A9A86;
+    margin:40 75 170;
+    *{
+      scale:-1;
+      margin:130-40-170;
+      color:4C4C6B
+    }
+  }
+</style>
