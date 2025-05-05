@@ -7,9 +7,8 @@
     border:22q solid#D95F5B;
     margin:80 0 0 122;
     border-radius:1in;
-    clip-path:polygon(0%0,212q 0%,212q 50%,40%50%,40%100%,0%100%)
-  }
-  p+p{
+    clip-path:polygon(0%0,212q 0%,212q 50%,40%50%,40%100%,0%100%);
+  +p{
     scale:-1;
     margin:-20 122 0 0;
   }
