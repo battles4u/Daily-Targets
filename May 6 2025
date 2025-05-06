@@ -1,0 +1,12 @@
+<style>
+  *{
+    background:linear-gradient(#EBF6F0 50%,#4E4B44 0);
+    *{
+      background:#4A9A86;
+      color:4A9A86;
+      margin:53%45%48;
+      border-radius:50%;
+      box-shadow:0 0 0 21q,87q 0 0 11q,152q 0,-82px 0 0 11q,-152q 0;
+    }
+  }
+</style>
