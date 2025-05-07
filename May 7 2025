@@ -1,0 +1,13 @@
+<style>
+  &{
+    background:#2D3464;
+    border:solid;
+    border-width:150 100;
+    border-color:#C0D6E7#0000#5AA4B7;
+    *{
+      background:#C0D6E7;
+      margin:0 0-75%+0;
+      clip-path:polygon(0%0,100%0,50%100%)
+    }
+  }
+</style>
