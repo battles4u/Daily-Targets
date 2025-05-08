@@ -1,0 +1,9 @@
+<style>
+  *{
+    background:radial-gradient(1q,#5A9F48 var(--r,127q),#0A4756);
+    *{
+      --r:53q;
+      margin:90 140
+    }
+  }
+</style>
