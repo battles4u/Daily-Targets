@@ -1,0 +1,18 @@
+<p><style>
+  *{
+    background:radial-gradient(1q at 50%60%,#fff 60px,#4F77FF);
+    +*{
+      margin:100 190 130;
+      box-shadow:0 0 0 11q#4F77FF;
+      *{
+        position:fixed;
+        padding:5 70;
+        border-block:22q solid#fff;
+        margin:-40-60;
+        background:#0000;
+      }
+    }
+      }
+    }
+  }
+</style>
