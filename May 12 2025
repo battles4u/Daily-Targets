@@ -1,0 +1,17 @@
+<p><style>
+  *{
+    background:radial-gradient(1q at 50%106q,#30383F 90px,#ED6A9D);
+    *{
+      background:#30383F;
+      color:30383F;
+      border:solid;
+      border-width:0 60 60;
+      margin:100 50 0;
+      *{
+        color:ED6A9D;
+        padding:40 30;
+        margin:0
+      }
+    }
+  }
+</style>
