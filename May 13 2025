@@ -1,0 +1,11 @@
+<style>
+  &{
+    background:#E3CC9E;
+    margin:22 72-8;
+    *{
+      background:radial-gradient(1q,#D95F5B 40px,#0000)-40px -16q/169q,
+        conic-gradient(from 180deg at 106q 127q,#0000 0 25%,#D95F5B 0)0 0/148q;
+    border-radius:2in 2in 0 0;
+    }
+  }
+</style>
