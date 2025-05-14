@@ -1,3 +1,4 @@
+/*Solution 1*/
 <p><style>
   *{
     background:#243D83;
@@ -12,6 +13,19 @@
         margin:80-40;
         box-shadow:169q 0#243D83
       }
+    }
+  }
+</style>
+
+/* Solution 2*/
+<style>
+  *{
+    background:#243D83;
+    +*{
+      background:radial-gradient(1q,#243D83 40px,#5AA4B7)84q 0/169q;
+      margin:30 120;
+      clip-path:polygon(0%33%,50%0,100%33%,100%100%,0%100%);
+      border-radius:1in;
     }
   }
 </style>
