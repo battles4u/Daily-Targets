@@ -1,0 +1,17 @@
+<p><style>
+  *{
+    background:#243D83;
+    border-radius:1in;
+    +*{
+      background:#5AA4B7;
+      margin:30 120;
+      clip-path:polygon(0%33%,50%0,100%33%,100%100%,0%100%);
+      *{
+        position:fixed;
+        padding:40;
+        margin:80-40;
+        box-shadow:169q 0#243D83
+      }
+    }
+  }
+</style>
