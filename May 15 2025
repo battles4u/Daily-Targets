@@ -1,0 +1,23 @@
+<p><style>
+  *{
+    border:solid#D95F5B;
+    border-width:10 0 0;
+    background:#243D83;
+    color:F4DA64
+  }
+  &{
+      margin:120 90 130;
+      box-shadow:0 0 0 3in;
+      *{
+        margin:-100 90-90;
+        box-shadow:11q 0,-11q 0;
+        *{
+          position:fixed;
+          padding:20;
+          margin:80 0;
+          border-width:10 0
+        }
+      }
+    }
+  }
+</style>
