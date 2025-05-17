@@ -1,0 +1,17 @@
+<p><style>
+  *{
+    background:#51A499;
+    *{
+      background:#282828;
+      border-inline:43q solid#EAC049;
+      margin:50 140;
+      *{
+        position:fixed;
+        padding:40 20;
+        margin:60 20;
+        rotate:90deg;
+        -webkit-box-reflect:below 42q
+      }
+    }
+  }
+</style>
