@@ -1,0 +1,10 @@
+<style>
+  *{
+    background:#F3EAD2;
+    *{
+      background:conic-gradient(from 315deg at 112q,#C0D6E7 25%,#D96C7B 0 50%,#4C455B 0);
+      margin:115 94 45;
+      clip-path:polygon(16%0,84%0,100%25%,112q 101%,0%25%)
+    }
+  }
+</style>
