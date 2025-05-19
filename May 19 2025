@@ -1,0 +1,40 @@
+/*Solution 1*/
+<p><p a><p><style>
+  body{
+    display:flex;
+    background:#BDE4C1;
+    margin:-56 40;
+    align-items:flex-start;
+    justify-content:space-between
+  }
+  p{
+    background:linear-gradient(#4C455B var(--d,254q),#D95F5B 0);
+    padding:140 40;
+    border-radius:1in;
+  }
+  [a]{
+    align-self:flex-end;
+    --d:40px
+  }
+</style>
+
+
+
+/*Solution 2*/
+<p><style>
+  *{
+    background:#BDE4C1;
+    *{
+      background:linear-gradient(#4C455B var(--d,275q),#D95F5B 0);
+      margin:-60 70% 60 40;
+      border-radius:1in;
+      -webkit-box-reflect:right 160px;
+      *{
+        position:fixed;
+        padding:140 40;
+        margin:120;
+        --d:40px
+      }
+    }
+  }
+</style>
