@@ -1,0 +1,16 @@
+<p><p><style>
+  *{
+    background:#282828;
+    position:fixed;
+  }
+  p{
+    padding:40;
+    background:conic-gradient(#F9DDC6 75%,#282828 0);
+    margin:22 72;
+    -webkit-box-reflect:right 80px;
+  }
+  p+p{
+    margin:182 232;
+    scale:-1;
+  }
+</style>
