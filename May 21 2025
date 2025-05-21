@@ -1,0 +1,18 @@
+<p><style>
+ *:not(p){
+   background:#EDDF5A;
+   color:C53025;
+   border-block:43q solid;
+   margin:50 0;
+   *{
+     rotate:90deg;
+     margin:0 100;
+     color:EDDF5A;
+     background:#C53025;
+     *{
+       padding:20 210;
+       margin:0-110  
+     }
+   }
+ }
+</style>
