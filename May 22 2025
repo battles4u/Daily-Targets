@@ -1,0 +1,14 @@
+<style>
+  *{
+    background:#243D83;
+    color:243D83;
+    margin:0 170;
+    box-shadow:-143q 0,143q 0,0 0 0 3in#E3DCD1;
+    *{
+      margin:-95 0;
+      rotate:-45deg;
+      box-shadow:-143q 0,143q 0,-286q 0,286q 0
+    }
+    }
+  }
+</style>
