@@ -1,0 +1,20 @@
+<p><p><style>
+  *{
+    background:#F3AC3C;
+    border-inline:43q solid#282828;
+    margin:140 120;
+    *{
+      margin:0-40;
+      rotate:90deg;
+      *{
+        position:fixed;
+        padding:10 80;
+        margin:0-80;
+        rotate:45deg;
+        +p{
+          rotate:-45deg
+        }
+      }
+    }
+  }
+</style>
