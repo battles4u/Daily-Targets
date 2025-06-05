@@ -1,0 +1,17 @@
+<p><style>
+  *{
+    background:#394257;
+    border:43q solid#EED9D9;
+  }
+  &{
+    margin:60 30 30;
+    border-radius:2in 2in 0 0;
+    *{
+      margin:-70 40-40;
+      *{
+        margin:160-200;
+        padding:220
+      }
+    }
+  }
+</style>
