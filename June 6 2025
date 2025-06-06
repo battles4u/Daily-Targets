@@ -1,0 +1,20 @@
+<p><style>
+  &{
+    background:#2D3464;
+    border-inline:155px solid#D95362;
+    margin:125 0;
+    *:not(p){
+      border-block:50px solid#D95362;
+      margin:-70 20;
+      *{
+        position:fixed;
+        padding:25;
+        border-radius:1in;
+        background:#C0D6E7;
+        color:C0D6E7;
+        margin:20 0;
+        box-shadow:74q 74q,-74q 74q,74q -74q,-74q -74q
+      }
+    }
+  }
+</style>
