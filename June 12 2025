@@ -1,0 +1,15 @@
+<style>
+  *{
+      background:#5AA4B7;
+      border-radius:0 0 1in 1in;
+  }
+  &{
+      margin:80 120 140;
+      box-shadow:0 0 0 3in#2D3464;
+    *{
+      margin:-80 0 80;
+      -webkit-box-reflect:below 80px
+    }
+    }
+  }
+</style>
