@@ -1,0 +1,32 @@
+<p><p><p><p><a><style>
+  *{
+    background:#6592CF;
+    color:F7CB71;
+    position:fixed;
+  }
+  p{
+    padding:80 90;
+    border:solid;
+    border-width:0 20 20;
+    margin:52 82;
+    +p{
+      padding:70 50;
+      margin:42 132;
+      rotate:90deg;
+      +p{
+        padding:30;
+        rotate:180deg;
+        margin:92 162;
+        +p{
+          padding:20 10;
+          rotate:90deg;
+          a{
+            padding:10;
+            margin:20 30;
+            box-shadow:21q -106q#6592CF
+          }
+        }
+      }
+    }
+  }
+</style>
